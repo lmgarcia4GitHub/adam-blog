@@ -9,4 +9,4 @@ author: Adam Neilson # Add name author (optional)
 ---
 Bienvenidos a mi blog!!!
 
-![Imagen Prueba]({{site.baseurl}}/assets/img/imagen-prueba.jpg)
+![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
